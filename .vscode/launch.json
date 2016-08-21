@@ -1,0 +1,21 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Mocha",
+      "request": "launch",
+      "type": "node",
+      "program": "${workspaceRoot}/node_modules/mocha/bin/_mocha",
+      "stopOnEntry": false,
+      "args": [],
+      "cwd": "${workspaceRoot}",
+      "runtimeArgs": [
+          "--nolazy"
+      ],
+      "externalConsole": false,
+      "sourceMaps": true,
+      "runtimeExecutable": null,
+      "outDir": null
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+**/.*
+reports
+test/out
+.vscode
+npm-debug.log

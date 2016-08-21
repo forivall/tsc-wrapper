@@ -1,0 +1,15 @@
+{
+  "files.trimTrailingWhitespace": true,
+  "editor.tabSize": 2,
+  "files.exclude": {
+    "**/.git": true,
+    "**/.DS_Store": true,
+    "node_modules": true,
+    "reports": true
+  },
+  "search.exclude": {
+    "**/node_modules": true,
+    "reports": true
+  },
+  "eslint.enable": true
+}
