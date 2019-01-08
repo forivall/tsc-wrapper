@@ -1,0 +1,10 @@
+
+## 2.0.0
+
+- update requirements to node > 8 [async/await]
+
+- remove second parameter (dont be opinionated about config)
+
+## 1.0.0
+
+Initial version

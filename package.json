@@ -1,10 +1,10 @@
 {
   "name": "tsc-wrapper",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A utility to compile typescript files from code instead of using tsc",
   "main": "index.js",
   "engines": {
-    "node": ">4.0.0"
+    "node": ">8.0.0"
   },
   "repository": {
     "type": "git",
