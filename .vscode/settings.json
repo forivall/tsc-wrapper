@@ -5,11 +5,11 @@
     "**/.git": true,
     "**/.DS_Store": true,
     "node_modules": true,
-    "reports": true
+    ".nyc_output": true
   },
   "search.exclude": {
     "**/node_modules": true,
-    "reports": true
+    ".nyc_output": true
   },
   "eslint.enable": true
 }

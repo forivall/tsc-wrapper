@@ -5,8 +5,11 @@
   },
   "globals": {
   },
+  "parserOptions": {
+    "ecmaVersion": 8
+  },
   "rules": {
-    "brace-style": [2, "stroustrup", {"allowSingleLine": true}],
+    "brace-style": [2],
     "camelcase": [2, {"properties": "never"}],
     "comma-dangle": [2],
     "comma-style": [2, "last"],
