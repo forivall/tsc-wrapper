@@ -18,7 +18,9 @@
   "author": "Tyler Waters",
   "license": "MIT",
   "dependencies": {
-    "typescript": "^1.8.10"
+  },
+  "peerDependencies": {
+    "typescript": ">=1.8.10"
   },
   "devDependencies": {
     "eslint": "^5.12.0",
